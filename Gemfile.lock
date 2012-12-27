@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gpio (0.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gpio
